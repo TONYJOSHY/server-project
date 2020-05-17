@@ -1,0 +1,41 @@
+section{
+    color: blue;
+    font-weight: normal;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    background-color: khaki;
+    line-height: 2;
+}
+.sec{
+    background-color: aquamarine;
+    border: transparent;
+}
+ul{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: unset;
+    background-color: yellowgreen;
+}
+li{
+    display: inline-block;
+    text-align: end;
+    padding: 10px;
+}
+.abc{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Cantarell, 'Open Sans',
+     'Helvetica Neue', sans-serif;
+}
+.abc:hover{
+    color: aqua;
+}
+.main{
+   margin: 10px;
+   padding:20px;
+}
+.sub1{
+    color: rgb(218, 214, 17);
+}
+.sub2{
+    color: blue;
+}
